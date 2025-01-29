@@ -1,1 +1,0 @@
-This repository contains a credit scoring model for financial eCommerce platforms. It leverages machine learning algorithms to assess the creditworthiness of potential customers to make informed lending decisions.
